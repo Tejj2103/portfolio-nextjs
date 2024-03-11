@@ -30,17 +30,22 @@ const Header = (props: Props) => {
                     bgColor='transparent'
                 />
                 <SocialIcon
-                    url="https://www.youtube.com/@tejjjain1350"
+                    url="https://www.instagram.com/@tejjjain1350"
                     fgColor='gray'
                     bgColor='transparent'
                 />
                 <SocialIcon
-                    url="https://www.youtube.com/@tejjjain1350"
+                    url="https://www.twitter.com/@tejjjain1350"
                     fgColor='gray'
                     bgColor='transparent'
                 />
                 <SocialIcon
-                    url="https://www.youtube.com/@tejjjain1350"
+                    url="https://www.fb.com/@tejjjain1350"
+                    fgColor='gray'
+                    bgColor='transparent'
+                />
+                <SocialIcon
+                    url="https://www.facebook.com/@tejjjain1350"
                     fgColor='gray'
                     bgColor='transparent'
                 />
