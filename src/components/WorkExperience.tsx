@@ -17,7 +17,7 @@ const WorkExperience = (props: Props) => {
                 className='absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl'>
                 Experience
             </h3>
-            <div className='w-full flex space-x-5 overflow-x-scroll p-10 snap-x snap-mandatory'>
+            <div className='max-w-7xl w-full flex space-x-5 overflow-x-scroll p-10 snap-x snap-mandatory ov'>
                 <ExpCard/>
                 <ExpCard/>
                 <ExpCard/>

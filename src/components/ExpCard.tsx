@@ -8,7 +8,7 @@ type Props = {}
 
 function ExpCard({ }: Props) {
     return (
-        <article className='flex flex-col rounded-1 items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center bg-[#2b2f38] p-10 hover:opacity-100 opacity-40 transition-opacity duration-200 cursor-pointer overflow-hidden'>
+        <article className='flex flex-col rounded-1 items-center space-y-7 flex-shrink-0 w-[500px] md:w-[400px] xl:w-[600px] snap-center bg-[#2b2f38] p-10 hover:opacity-100 opacity-40 transition-opacity duration-200 cursor-pointer overflow-hidden'>
             <motion.img
                 initial={{
                     y: -100,
